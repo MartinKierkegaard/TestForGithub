@@ -14,7 +14,6 @@ namespace TestForGithub
             Console.WriteLine("Hello World !");
             Console.WriteLine("Hello world again");
             Console.WriteLine("Hello world again");
-            Console.WriteLine("Hello world again");
         }
     }
 }
